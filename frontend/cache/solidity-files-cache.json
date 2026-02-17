@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/dineshkumar/Projects/Memento/frontend/contracts/MementoProofRegistry.sol": {
+      "lastModificationDate": 1771272016889,
+      "contentHash": "57a8fe4b9b5b1ceb952b919dbe90b669",
+      "sourceName": "contracts/MementoProofRegistry.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "MementoProofRegistry"
+      ]
+    }
+  }
+}

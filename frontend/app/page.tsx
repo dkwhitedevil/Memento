@@ -1,4 +1,4 @@
-import MementoLanding from "./pages/Landing";
+import MementoLanding from "./landing";
 
 export default function Home() {
   return <MementoLanding />;
